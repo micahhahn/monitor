@@ -29,6 +29,11 @@ dependencies:
 - network-uri
 - unordered-containers
 - process
+- aeson-schemas
+- filepath
+- ghc
+- ghc-paths
+- ghc-source-gen
 
 library:
   source-dirs: src
